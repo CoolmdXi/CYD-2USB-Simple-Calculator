@@ -1,4 +1,4 @@
-#include <TFT_eSPI.h> // Graphics and font library for ST7735 driver chip
+#include <TFT_eSPI.h> // Graphics and font library 
 #include <XPT2046_Touchscreen.h> // Library for XPT2046 touch controller
 #include <SPI.h>
 
